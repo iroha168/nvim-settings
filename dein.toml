@@ -1,0 +1,120 @@
+[[plugins]]
+repo = 'SirVer/ultisnips'
+[[plugins]]
+repo ='ensime/ensime-vim'
+#[[plugins]]
+#repo = 'eed3si9n/LanguageClient-neovim'
+[[plugins]]
+repo = 'honza/vim-snippets'
+
+[[plugins]]
+repo = 'ensime/ensime-vim'
+[[plugins]]
+repo = 'Shougo/dein.vim'
+
+[[plugins]]
+repo = 'fatih/vim-go'
+
+[[plugins]]
+repo = 'derekwyatt/vim-scala'
+
+[[plugins]]
+repo = 'Shougo/deoplete.nvim'
+
+[[plugins]]
+repo ='Shougo/neco-syntax'
+
+[[plugins]]
+repo ='ujihisa/neco-look'
+
+#[[plugins]]
+#repo = 'ktvoelker/sbt-vim'
+
+[[plugins]]
+repo = 'rcmdnk/vim-markdown'
+
+[[plugins]]
+repo = 'jacoborus/tender.vim'
+
+[[plugins]]
+repo = 'scrooloose/nerdtree'
+
+[[plugins]]
+repo = 'junegunn/fzf'
+build = './install --all'
+merged = 0
+[[plugins]]
+repo = 'junegunn/fzf.vim'
+depends= 'fzf' 
+[[plugins]]
+repo = 'Shougo/dein.vim'
+[[plugins]]
+repo = 'Shougo/neomru.vim'
+[[plugins]]
+repo = 'Shougo/neosnippet'
+[[plugins]]
+repo = 'Shougo/neosnippet-snippets'
+[[plugins]]
+repo = 'Shougo/unite-outline'
+[[plugins]]
+repo = 'Shougo/unite.vim'
+[[plugins]]
+repo = 'Xuyuanp/nerdtree-git-plugin'
+[[plugins]]
+repo = 'dhruvasagar/vim-table-mode'
+[[plugins]]
+repo = 'fatih/molokai'
+[[plugins]]
+repo = 'janko-m/vim-test'
+[[plugins]]
+repo = 'jlanzarotta/bufexplorer'
+[[plugins]]
+repo = 'junegunn/gv.vim'
+[[plugins]]
+repo = 'leafgarland/typescript-vim'
+[[plugins]]
+repo = 'mattn/sonictemplate-vim'
+[[plugins]]
+repo = 'miyakogi/seiya.vim'
+[[plugins]]
+repo = 'pearofducks/ansible-vim'
+[[plugins]]
+repo = 'prettier/vim-prettier'
+[[plugins]]
+repo = 'reireias/vim-cheatsheet'
+[[plugins]]
+repo = 'ryanoasis/vim-devicons'
+[[plugins]]
+repo = 'ryym/vim-riot'
+[[plugins]]
+repo = 'scrooloose/nerdtree'
+[[plugins]]
+repo = 'simeji/winresizer'
+[[plugins]]
+repo = 'thinca/vim-quickrun'
+[[plugins]]
+repo = 'tiagofumo/vim-nerdtree-syntax-highlight'
+[[plugins]]
+repo = 'tpope/vim-dispatch'
+[[plugins]]
+repo = 'tpope/vim-fugitive'
+[[plugins]]
+repo = 'tyru/open-browser.vim'
+[[plugins]]
+repo = 'vim-airline/vim-airline'
+[[plugins]]
+repo = 'vim-airline/vim-airline-themes'
+[[plugins]]
+repo = 'vim-jp/vimdoc-ja'
+[[plugins]]
+repo = 'w0rp/ale'
+[[plugins]]
+repo = 'yuttie/comfortable-motion.vim'
+[[plugins]]
+repo = 'tomasr/molokai'
+[[plugins]]
+repo = 'rking/ag.vim'
+[[plugins]]
+repo = 'Shougo/denite.nvim'
+[[plugins]]
+repo = 'Shougo/neoyank.vim'
